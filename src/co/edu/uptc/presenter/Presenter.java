@@ -9,6 +9,10 @@ import co.edu.uptc.view.IOManager;
 public class Presenter {
     private IOManager io; 
 
+    public Presenter(){
+        io = new IOManager(); 
+    }
+
     public String saludar(){
         String saludo = "Hola mundo"; 
         return saludo; 
