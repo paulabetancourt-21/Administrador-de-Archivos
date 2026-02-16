@@ -2,7 +2,7 @@ package co.edu.uptc.presenter;
 
 import co.edu.uptc.view.IOManager;
 
-/*Author: Paula Andrea Betancourt Matamoros
+/*Author: Paula Andrea Betancourt Matamoros y Jhosep Pizarro Avila
  * Date: 
  * Description: 
  */
