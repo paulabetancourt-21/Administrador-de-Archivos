@@ -17,7 +17,9 @@ public class IOManager {
     }
 
     public String readData(String message){
-        String data = console.nextLine(); 
-        return data;
-    }
+    System.out.print(message);
+    String data = console.nextLine(); 
+    return data;
+}
+
 }
